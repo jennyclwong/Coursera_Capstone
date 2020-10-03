@@ -1,0 +1,3 @@
+# This is an introduction of the Capstone Project - Car accident prediction and its severity.
+
+Life is the most valuable and irreplaceable thing in the world. I believe no one wants to have car accidents while travelling on road. This project is to predict the severity and the possibility of getting into a car accident by using various data of the road like weather, date, road conditions, etc. that would be able to let people drive more carefully or even change the rounte or date of the journey. So that not only saving the time to get involve into a car accident but saving the life.  
