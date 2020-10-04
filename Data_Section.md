@@ -1,0 +1,5 @@
+The dataset will be used for the project is the collisions in Seattle provided by the Seattle Policy Department (SPD) and recorded by the Seattle Department of Transportation (SDOT) Traffic Management Division, Traffic Records Group. It includes all types of collisions from 2004 to present. You can download it from here and the metadata can be found from here.
+
+This project will use the dataset to predict the severity of collision occurs in specific address type (i.e. alley, block and intersection) by given conditions during the collision like weather, road, light, speeding or not, etc. Since this is a labelled dataset, a supervised machine learning model will be implemented for the project.
+
+The dataset has unbalanced labels and noise which are required to perform data cleaning to make sure it becomes balance and clean. Afterwards, the dataset will be divided into training set and test set. Different models like KNN, SVM, Regression will be built by using the training data set. The model evaluation will be done by using the test set to report the accuracy of the model and come up a conclusion for the analysis. 
